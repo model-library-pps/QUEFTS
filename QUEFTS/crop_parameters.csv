@@ -1,0 +1,16 @@
+crop_id,crop,crop_short,crpnam,crfile,inyear,idurmx,latest_sowing_date,aN,dN,aP,dP,aK,dK,rN,rP,rK,max_yield
+110,Maize,mz,Grain maize 203 for YIELD GAP calcul.,NA,1,200,243,26,60,180,540,24,96,5,0.4,2,8000
+-999,Millet,mt,Millet for YIELD GAP calcul.,NA,1,200,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,3000
+111,Sorghum,so,Sorghum for YIELD GAP calcul.,NA,1,200,243,30,80,160,600,30,120,5,0.4,2,6000
+-999,Wheat,wt,Wheat for YIELD GAP calcul.,NA,1,200,160,NA,NA,NA,NA,NA,NA,NA,NA,NA,100000
+-999,Rice,ri,Rice for YIELD GAP calcul.,NA,1,200,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,100000
+131,SoyBean,sb,Generic soy bean parameters,NA,1,200,243,14,21,60,235,28,80,5,0.4,2,4000
+34,BushBean,bb,Generic common bean parameters,NA,1,200,243,14,21,60,235,28,80,5,0.4,2,4000
+35,ClimbingBean,cb,Generic common bean parameters,NA,1,200,243,14,21,60,235,28,80,5,0.4,2,4000
+86,Groundnut,gn,Generic groundnut parameters,NA,1,200,243,14,21,60,235,28,80,5,0.4,2,4000
+195,SugarCane,sc,Generic sugarcane parameters,NA,1,200,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,100000
+194,SunFlower,sf,Generic sunflower parameters,NA,1,200,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,100000
+32,Onion,on,Generic onion parameters,NA,1,200,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,100000
+33,Tomato,to,Generic tomato parameters,NA,1,200,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,100000
+38,Cassava,ca,Generic cassava parameters,NA,1,200,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,100000
+36,cowpea,cp,generic cowpea,NA,1,200,243,14,21,60,235,28,80,5,0.4,2,4000

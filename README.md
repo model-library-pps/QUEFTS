@@ -25,8 +25,9 @@ This manual assumes that QUEFTS is run within RStudio. In order to run the previ
 
 
 ## References
-Janssen B.H., Guiking F.C.T., Van der Eijk D., Smaling E.M.A., Wolf J., Reuler H. A system for quantitative evaluation of the fertility of tropical soils (QUEFTS). Geoderma 46: 299-318. https://doi.org/10.1016/0016-7061(90)90021-Z
+Janssen B.H., Guiking F.C.T., Van der Eijk D., Smaling E.M.A., Wolf J., Reuler H, (1990). A system for quantitative evaluation of the fertility of tropical soils (QUEFTS). Geoderma 46: 299-318. https://doi.org/10.1016/0016-7061(90)90021-Z
 
+Sattari S.Z., van Ittersum M.K.m Bouwman A.F., Smit A.L., Janssen B.H., (2014). Crop yield response to soil fertility and N, P, K inputs in different environments: Testing and improving the QUEFTS model. Field Crops Research 157: 35-46. https://doi.org/10.1016/j.fcr.2013.12.005
 
 ## Contact person
 Mink Zijlstra (mink.zijlsta@wur.nl)
